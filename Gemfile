@@ -10,8 +10,7 @@ group :production do
     gem 'pg'
     gem 'rails_12factor'
 end
-#heroku
-gem 'heroku'
+
 #devise
 gem 'devise', '~> 3.4.1'
 
